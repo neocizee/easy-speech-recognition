@@ -3,8 +3,8 @@
 # Requirements
 
  - <code>pip install SpeechRecognition</code>  
- - <code>pip installPyAudio</code>
-  - <code>pip install pydub</code>
+ - <code>pip install PyAudio</code>
+ - <code>pip install pydub</code>
 
 # Install
 
